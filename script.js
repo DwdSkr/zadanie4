@@ -53,4 +53,10 @@ function editFunction() {
 	);
 	//
 }
-function changeTask() {}
+function changeTask() {
+	// const changeTaskValue = document.getElementById(`changeTask`).value;
+	// if (changeTaskValue !== ``) {
+	// } else {
+	// 	alert(`Nazwa zadania nie może być pusta.`);
+	// }
+}
